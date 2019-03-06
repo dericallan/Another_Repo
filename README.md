@@ -1,2 +1,2 @@
 # Another_Repo
-Still a beginner in Git so nothing to interesting to look at ;)
+Still a beginner in Git so nothing interesting to look at ;)
